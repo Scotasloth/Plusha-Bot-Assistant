@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Plusha Bot</string>
+    <string name="start_voice_command">Start Voice Command</string>
+    <string name="initial_text">Say something&#8230;</string>
+    <string name="weather_fetching">Fetching weather&#8230;</string>
+    <string name="joke_fetching">Fetching a joke&#8230;</string>
+    <string name="error_no_speech">No speech detected</string>
+    <string name="error_speech_recognition">Speech recognition not supported</string>
 </resources>
