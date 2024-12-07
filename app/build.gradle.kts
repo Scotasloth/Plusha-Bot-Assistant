@@ -62,10 +62,10 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.core)
-    implementation(libs.play.services.speech)
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.kotlin.stdlib)
+    implementation(libs.play.services.base)
 
     // Testing dependencies
     testImplementation(libs.junit)
